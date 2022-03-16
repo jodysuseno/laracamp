@@ -4,6 +4,8 @@ use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\UserController;
 use App\Http\Controllers\User\CheckoutController;
+use App\Models\Checkout;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
